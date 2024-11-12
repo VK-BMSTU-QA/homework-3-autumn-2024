@@ -407,6 +407,7 @@ VK Mini Apps и игры
 ![image](https://github.com/user-attachments/assets/d4eeb121-1b7e-4fef-bc49-5aa0a59f9d36)
 
 * При нажатии на дату открывается редактирование даты отображения данных
+
 ![image](https://github.com/user-attachments/assets/59146d1b-618a-465b-a6f4-d2ffc3706c1c)
 
 * В полезных материалах при нажатии на кнопку "Кесы" отображаются соответсвующие данные
