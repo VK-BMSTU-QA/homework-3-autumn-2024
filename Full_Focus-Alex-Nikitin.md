@@ -325,3 +325,53 @@ VK Mini Apps и игры
 * При нажатии на Полезные материалы открывается новая вкладка с информацией
 
 ![image](https://github.com/user-attachments/assets/1d7c5db8-4e6e-4f6e-9e4d-3a58a3dc6c36)
+
+
+* При нажатии на кнопку "Создать кампанию" открывается окно создания новой кампании
+
+![image](https://github.com/user-attachments/assets/ca95b2f1-038a-4810-bf14-3ad6f3625a17)
+
+* При нажатии на кнопку "Транслируются" открывается окно кампаний с фильтрами
+
+![image](https://github.com/user-attachments/assets/396a0bd8-0fb1-4025-9824-8a2bc1ba68b7)
+![image](https://github.com/user-attachments/assets/c284753f-016e-490c-883e-cbc093f0cdd9)
+
+* При нажатии на кнопку "Не ранслируются" открывается окно кампаний с фильтрами
+
+![image](https://github.com/user-attachments/assets/e23b0c2e-983e-4be7-90a3-525ab6686fc0)
+
+* При нажатии на кнопку "На модерации" открывается окно кампаний с фильтрами
+
+![image](https://github.com/user-attachments/assets/8bbbda2e-fb2b-4ca7-a090-cecd6c9da031)
+
+* При нажатии на кнопку "Отклоненные" открывается окно кампаний с фильтрами
+
+![image](https://github.com/user-attachments/assets/d1ef1ac2-2b83-48f7-8e3d-8f3818243f47)
+
+* При нажатии на кнопку пополнить открывается окно пополнения счета
+
+![image](https://github.com/user-attachments/assets/69bc1db9-188e-453b-84d5-44db26b50356)
+
+* При вводе менее 600 рублей выводится ошибка
+
+![image](https://github.com/user-attachments/assets/05c5f9c1-5f21-45ff-a2b1-4eb7850adc01)
+
+* При нажатии на крестик окно пополнения закрывается
+
+![image](https://github.com/user-attachments/assets/5d830425-3923-4a3d-af1e-31e500d5aed9)
+
+* При нажатии кнопки пополнения открывается оплата
+
+![image](https://github.com/user-attachments/assets/d4eeb121-1b7e-4fef-bc49-5aa0a59f9d36)
+
+
+* При нажатии на дату открывается редактирование даты отображения данных
+![image](https://github.com/user-attachments/assets/59146d1b-618a-465b-a6f4-d2ffc3706c1c)
+
+* В полезных материалах при нажатии на кнопку "Кесы" отображаются соответсвующие данные
+
+![image](https://github.com/user-attachments/assets/8887d4cf-f67e-4610-8ea7-50b4051e7d31)
+
+* В полезных материалах при нажатии на кнопку "Новости" отображаются соответсвующие данные
+
+![image](https://github.com/user-attachments/assets/ce1504cc-bb33-4cbd-b59e-26768ab14449)
