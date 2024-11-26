@@ -272,8 +272,7 @@
                 <img src="https://github.com/user-attachments/assets/a38b2a0a-ac75-433f-ab16-e5169ffb4021"/>
 </li>
                 <li>При указании региона показа на карте локации добавляются в виде геометок с настраиваемым радиусом
-                    <img src="https://github.com/user-attachments/assets/c53cc556-ca52-4590-b8e3-7d61c2eab9e0"/>
-
+                <img src="https://github.com/user-attachments/assets/c53cc556-ca52-4590-b8e3-7d61c2eab9e0"/>
                 </li>
                 <li>При отсутствии выбранных регионов показа и нажатии кнопки "Продолжить" отображается сообщение об ошибке</li>
                 <li>Нельзя убрать оба типа устройства из аудитории - Мобильные и Десктопные</li>
@@ -308,7 +307,6 @@
     <li>
         Список групп
         <img src="https://github.com/user-attachments/assets/24519481-92a6-4ebc-bec9-bf5e6ca23913"/>
-
         <li>
             <ul>
                 <li>Если не выбрано ни одной группы, выпадающее меню "Действия" заблокировано</li>
