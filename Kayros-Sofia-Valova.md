@@ -90,7 +90,7 @@
 ![Пример изображения](img/active-forms.png)
 
 ## Аудитория 
-(Кликните для перехода на страницу)[https://ads.vk.com/hq/audience]
+[Кликните для перехода на страницу](https://ads.vk.com/hq/audience)
 
 **Аудитория. Главная**
 
@@ -126,7 +126,7 @@
 ![Пример изображения](img/audience-added.png)
 
 ## Кампании 
-(Кликните для перехода на страницу)[[https://ads.vk.com/hq/audience](https://ads.vk.com/hq/dashboard)]
+[Кликните для перехода на страницу](https://ads.vk.com/hq/dashboard)
 
 **Кампании. Главная**
 
