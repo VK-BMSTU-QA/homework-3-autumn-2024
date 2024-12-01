@@ -40,4 +40,14 @@
 ![image](https://github.com/user-attachments/assets/228b515f-99e8-4511-b43f-5f2ed6f3db0d)
 - При нажатии на кнопку "Продолжить" происходит переход в меню "Настройки"
 
+![image](https://github.com/user-attachments/assets/da50566f-b7a9-4341-9df4-8b9515bf8639)
+- При нажатии на checkbox "Уведомлять о новых записях по email" появляется поле ввода email
+
+
+![image](https://github.com/user-attachments/assets/e981176d-2b0d-4eda-81a5-731076b1f88a)
+
+- При нажатии на кнопку "Продолжить", меню "Новая лид-форма" закрывается, создаётся лид-форма
+![image](https://github.com/user-attachments/assets/1de55bb7-d0ca-4113-95c9-8574ad8b4320)
+
+
 
