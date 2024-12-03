@@ -43,11 +43,17 @@
 - При нажатии на кнопку "Продолжить" происходит переход в меню "Настройки"
 
 ![image](https://github.com/user-attachments/assets/da50566f-b7a9-4341-9df4-8b9515bf8639)
+- При попытке нажатия на кнопку "Продолжить" с пустым полем "Фамилия, имя, отчество (если есть)", выдаётся ошибка "Обязательное поле"
+
+![image](https://github.com/user-attachments/assets/26d12b12-a71d-40fe-a3bb-27e4b8f314c4)
+- При попытке нажатия на кнопку "Продолжить" с пустым полем "Адрес регистрации по месту жительства)", выдаётся ошибка "Обязательное поле"
+  
+![image](https://github.com/user-attachments/assets/0ae6fc8e-abf8-4e35-9f9e-764ff540dbbe)
 - При нажатии на checkbox "Уведомлять о новых записях по email" появляется поле ввода email
 
 ![image](https://github.com/user-attachments/assets/e981176d-2b0d-4eda-81a5-731076b1f88a)
-
 - При нажатии на кнопку "Продолжить", меню "Новая лид-форма" закрывается, создаётся лид-форма
+  
 ![image](https://github.com/user-attachments/assets/1de55bb7-d0ca-4113-95c9-8574ad8b4320)
 
 ## Настройки [https://ads.vk.com/hq/settings]
