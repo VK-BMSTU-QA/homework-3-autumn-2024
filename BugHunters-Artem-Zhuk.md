@@ -16,9 +16,8 @@
   
   ![image](https://github.com/user-attachments/assets/b0a94dd0-fc6f-4bad-bde8-466db0d2df7e)
   ![image](https://github.com/user-attachments/assets/bb06eb8e-9a44-43be-a8ca-a846060f1445)
+- При загрузке файла формат которого не изображение (например exe), форма загрузки зависает 
 
-
-  
 - При попытке нажатия кнопки "Продолжить" до заполнения обязательных полей, обязательные поля подсвечиваются красным.
   
 ![image](https://github.com/user-attachments/assets/0a47513d-6ed5-4089-8b0f-6bb23a224ec3)
@@ -28,7 +27,7 @@
 
 - При нажатии на кнопку "Продолжить" при всех заполненных полях, происходит переход в меню "Вопросы"
 
-![image](https://github.com/user-attachments/assets/37d554a2-4045-4dcd-ab03-2ca7e3b23252)
+![image](https://github.com/user-attachments/assets/b5ee5d4b-0b7a-4e28-a46a-cb75474ab429)
 - По нажатию на кнопку "Добавить вопрос" появляется форма заполнения вопроса
 
 ![image](https://github.com/user-attachments/assets/57aa562e-59cb-4426-970d-c672f88ce291)
