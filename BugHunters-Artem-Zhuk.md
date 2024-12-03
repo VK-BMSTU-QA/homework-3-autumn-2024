@@ -37,11 +37,13 @@
 - При нажатии на кнопку "Продолжить" происходит переход в меню "Результат"
 
 ![image](https://github.com/user-attachments/assets/228b515f-99e8-4511-b43f-5f2ed6f3db0d)
+- При стирании "Спасибо за ответы" из дефолтно-заполненного поля "Заголовок", и оставлении поле пустым, выдаётся ошибка "Обязательное поле"
+  
+![image](https://github.com/user-attachments/assets/61a9d33e-2a33-4608-ab4e-9b99df30d5eb)
 - При нажатии на кнопку "Продолжить" происходит переход в меню "Настройки"
 
 ![image](https://github.com/user-attachments/assets/da50566f-b7a9-4341-9df4-8b9515bf8639)
 - При нажатии на checkbox "Уведомлять о новых записях по email" появляется поле ввода email
-
 
 ![image](https://github.com/user-attachments/assets/e981176d-2b0d-4eda-81a5-731076b1f88a)
 
