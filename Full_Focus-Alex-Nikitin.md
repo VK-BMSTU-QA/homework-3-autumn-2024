@@ -103,7 +103,7 @@
 
 * При вводе в input "Бюджет" менее 100 срабатывает ограничение
 
-![image](https://github.com/user-attachments/assets/67702b26-05ba-4586-b5ee-2aad81f199a7)
+![image](https://github.com/user-attachments/assets/2965755d-8a97-41e1-83c8-0eaeee382ffb)
 
 * При нажатии на дропдаун отображаются кнопки "за день", "за все время"
 
