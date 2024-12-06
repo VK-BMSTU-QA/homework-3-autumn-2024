@@ -181,7 +181,7 @@
 
 ![image](https://github.com/user-attachments/assets/f1dae6dc-2143-4c93-9e3f-dcf32f7c3b38)
 
-* При нажатии на checkbox кампании тест происходит ее выбор
+* При нажатии на checkbox кампании "Тест" происходит ее выбор
 
 ![image](https://github.com/user-attachments/assets/8d7143db-c96d-4c54-8b17-79dae5e1203f)
 
@@ -196,41 +196,77 @@
 
 ## Аудитории https://ads.vk.com/hq/audience
 
-* При нажатии на вкладку Аудитории отображаются данные о аудиториях
+* При нажатии на вкладку Аудитории отображается страница аудиторий
 
 ![image](https://github.com/user-attachments/assets/ea99d8c4-ca04-4a9e-bd39-5df9f6c81c9d)
 
-* При нажатии на кнопку Списки пользователей отображается список пользователей
+* При нажатии на кнопку "Создать аудиторию" открывается модальное окно создания аудитории
 
-![image](https://github.com/user-attachments/assets/7b8e8d64-1aa5-4a1a-b34b-561aa14468a7)
+![image](https://github.com/user-attachments/assets/df2fcfe2-e592-4eac-aaa7-bd19a32e025e)
 
-* При нажатии на кнопку Офлайн конверсии отображается список онлайн-конверсии
+* При нажатии на input "Название" открывается ввод названия новой аудитории
 
-![image](https://github.com/user-attachments/assets/3325ca86-7153-437d-b9c6-ad5edb751bcd)
+![image](https://github.com/user-attachments/assets/efbd0b73-d83f-4cc1-bf36-cc436824e658)
 
-* При нажатии на кнопку производится выбор всех аудиторий в отображаемом списке
+* При вводе данных и нажатии на любую часть модального окна происходит сохранение введенных данных
 
-![image](https://github.com/user-attachments/assets/d42c7df2-1ec0-4e10-a8fd-a38bbb8ea644)
+![image](https://github.com/user-attachments/assets/504f2ea9-ca09-4ad8-9896-15d9406be1f1)
 
-* При нажатии на кнопку выбирается аудитория отдельно
+* При нажатии на дропдаун "хотя бы одному из условий" отображаются кнопки "всем условиям", "ни одному из условий"
 
-![image](https://github.com/user-attachments/assets/100326a5-83a2-4109-bef0-cfa4096bcbe1)
+![image](https://github.com/user-attachments/assets/3f14c382-1d24-4a60-8437-6c199db58207)
 
-* При нажатии на кнопку "Поделиться" открывается окно открытия доступа
-* При нажатии на крестик это окно закрывается
+* При нажатии на кнопку "всем условиям" происходит выбор пользователей по критерию: "соответствует всем условиям"
 
-![image](https://github.com/user-attachments/assets/3d237c16-3c8a-4e98-9a0a-71f6158fc942)
+![image](https://github.com/user-attachments/assets/f9752487-7861-412e-a11e-559a521fc976)
 
-* При нажатии на мусорное ведро открывается окно удаления
+* При нажатии кнопки "Добавить источник" открывается модальное окно
 
-![image](https://github.com/user-attachments/assets/317978e3-0b64-4d0c-a3a2-3edc0a6db38e)
+![image](https://github.com/user-attachments/assets/62b6acac-5fe8-4d60-a53e-40f242deb355)
 
-* При нажатии "Отменить" удаление отменяется
-* При нажатии на крестик удаление отменяется
-* При нажатии "Применить" выбранные аудитории удаляются
+* При нажатии на кнопку "Ключевые фразы" открывается окно редактирования
 
-* При попытке удаления аудитории, используемой в активной группе выводится ошибка
-![image](https://github.com/user-attachments/assets/eb8d3512-871d-4329-876c-6331050d3ddb)
+![image](https://github.com/user-attachments/assets/ee244f2b-1ea9-4638-9667-656b13ab6816)
+
+* При нажатии на input "Название" открывается ввод данных
+
+![image](https://github.com/user-attachments/assets/fc7fdd22-e259-462f-8a57-7afa7e26c01b)
+
+* При нажатии на input "Ключевые фразы" открывается ввод данных
+
+![image](https://github.com/user-attachments/assets/e444c79c-d427-43cc-a837-869d28882ae5)
+
+* При нажатии на input "Минус-фразы" открывается ввод данных
+
+![image](https://github.com/user-attachments/assets/6da030f4-1d0a-4fb4-b85b-d48a4ec83ed2)
+
+* При нажатии на input "Период поиска" открывается ввод данных
+
+![image](https://github.com/user-attachments/assets/73b461c2-603f-4ea2-b4b1-d6a431950682)
+
+* При вводе данных вне диапазона от 1 до 30 выводится ошибка ввода данных
+
+![image](https://github.com/user-attachments/assets/fb1aa587-504b-4f40-b5c6-33f7c6e84210)
+
+* При нажатии кнопку "Сохранить" происходит создание ключевых фраз и закрытие модального окна
+
+![image](https://github.com/user-attachments/assets/932fb9e2-c31f-4197-bdd2-b539056b3f96)
+
+* При нажатии на кнопку "Сохранить" происходит создание аудитории и закрытие модального окна
+
+![image](https://github.com/user-attachments/assets/f2c575be-3859-4bd3-a5c2-1f151bb15361)
+
+* При нажатии на checkbox аудитории "Тест" происходит ее выбор
+
+![image](https://github.com/user-attachments/assets/76fecefd-9447-48aa-b040-6d13442c2dd7)
+
+* При нажатии на "Мусорное ведро" открывается модальное окно удаления
+
+![image](https://github.com/user-attachments/assets/ba13142c-ecdc-4bc4-961d-67a97e0b7256)
+
+* При нажатии кнопки "Удалить" происходит удаление аудитории и закрытие модального окна удаления
+
+![image](https://github.com/user-attachments/assets/52d8d9ab-06c1-432d-aae8-1e4875de8a9e)
 
 
 ## Обзор https://ads.vk.com/hq/overview
