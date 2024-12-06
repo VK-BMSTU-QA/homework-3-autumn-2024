@@ -3,232 +3,196 @@
 ## Кампании https://ads.vk.com/hq/dashboard
 
 * При переходе на вкладку отображается окно
+
 ![image](https://github.com/user-attachments/assets/fe58b558-ac55-4008-9cac-3fc4db1ba95d)
 
-* При нажатии на "фильтр" открываются настройки фильтра
+* При нажатии на кнопку "Создать" открывается окно создания кампании
 
-![image](https://github.com/user-attachments/assets/8ac59c7a-6759-4377-b917-1f7080000f1b)
+![image](https://github.com/user-attachments/assets/0dbd741f-2eed-4655-97a7-eb35d76763aa)
 
-* При нажатии на "сохраненные" открываются все сохраненные пользователем фильтры
+![image](https://github.com/user-attachments/assets/91f8fc60-27ff-43a1-b78c-f56713990774)
 
-![image](https://github.com/user-attachments/assets/28b5889b-3138-49a7-9932-44b171d68aad)
+* При нажатии на кнопку редактирования названия кампании в открывшемся input вводится название новой кампании
 
-* При нажатии на крестик сохраненные фильтры можно удалить
+![image](https://github.com/user-attachments/assets/4407c6fb-de67-4152-92ad-4be2cd4ae119)
 
-![image](https://github.com/user-attachments/assets/a37d7d2e-7683-431d-8643-9568906de32b)
+* При нажатии на кнопку подтвержения нового названия происходит сохнанение записи
 
-* При нажатии на сохраненный фильтр он применяется
+![image](https://github.com/user-attachments/assets/06921762-53de-4890-aa0a-07bac6cc3f24)
 
-![image](https://github.com/user-attachments/assets/6f999429-e160-41da-910e-030fa9170c85)
+* При вводе более 202 символов срабатывает ограничение, позволяющее ввести максимально 202 символа
 
-* При выборе одного и более пунктов настройки, доступных на всех вкладках фильтрации, можно сбросить их, нажав на кнопку нажав на кнопку "Сбросить все"
+![image](https://github.com/user-attachments/assets/15a60d8c-59e4-43ac-9fe8-2bc53a5bbf0b)
 
-![image](https://github.com/user-attachments/assets/3b39eb3e-64fd-49a5-ad7f-97649945e25c)
+* При вводе пустого значения или некоторого количества пробелов срабатывает ограничение на сохранение нового названия  
 
-* При нажатии кнопки сбросить сбрасываются только пункты в текущей вкладке
+![image](https://github.com/user-attachments/assets/e1eba4d2-0ee2-4435-b90b-88b96cf5cc15)
 
-![image](https://github.com/user-attachments/assets/cf0e12f6-3fca-4a8c-b7b2-e48b32d16076)
+* При нажатии на "Сообщество и профиль" открывается окно редактирования кампании
 
-![image](https://github.com/user-attachments/assets/5858f5af-2881-4841-9eff-a7decd37ba4a)
+![image](https://github.com/user-attachments/assets/8cdddd8d-fdae-452e-8f36-75fd82200b30)
 
-* При нажатии кнопки "выбрать все" выбираются все пункты в текущей вкладке
+* При нажатии на дропдаун "Сообщество и профиль" отрывается выбор объекта рекламной кампании
 
-![image](https://github.com/user-attachments/assets/5726c9a8-7660-44bd-b88b-a2998b48d354)
+![image](https://github.com/user-attachments/assets/d0da68f7-b39c-4861-91b5-38bd4762c861)
 
-* Во вкладке "Статус" доступна фильтрация при нажатии соответствующих кнопок
+* При нажатии на кнопку "Другое сообщество" открывается модальное окно, в котором требуется указать ссылку на сообщество
 
-1) Кампании по:  Запущенные, Остановленные
-2) Группы по:  Запущенные, Остановленные
-3) Объявления по:  Запущенные, Остановленные
+![image](https://github.com/user-attachments/assets/48cb855c-34a7-4ade-8863-71c4db64bce4)
 
-При нажатии "Показать удалённые" фильтрация добавит уже удаленных кампании, объявления и группы
+* При попытке добавить несуществующее сообщество выводится сообщение об ошибке поиска
 
-![image](https://github.com/user-attachments/assets/0600a3da-5e97-4a91-80e7-07503defa0c5)
+![image](https://github.com/user-attachments/assets/f55f01d7-859f-49fc-bbcf-dad9f2abc5c5)
 
+* При добавлении существующего сообщества происходит выбор сообщества как объекта рекламы
 
-* Во вкладке "Статус модерации"
+![image](https://github.com/user-attachments/assets/dca87767-c79c-4021-962f-4188af8c9149)
 
-При нажатии на кнопки "На проверке" осуществляется соответствующая фильтрация
+![image](https://github.com/user-attachments/assets/ee54d657-cd40-44f9-8c29-6b12be00f329)
 
-При нажатии на кнопки "Отклонена" осуществляется соответствующая фильтрация
+* При вводе в input "Важные детали и отличия от конкурентов" более 300 символов срабатывает ограничение 
 
-![image](https://github.com/user-attachments/assets/ae6871a3-dcb7-4fda-a8c9-e02bc287a0cf)
+![image](https://github.com/user-attachments/assets/00da0514-85dd-4326-b469-adbe911330b5)
 
-* Во вкладке "Объект рекламы"
+* При вводе в input "Важные детали и отличия от конкурентов" и нажатии на любую часть страницы вне input данные сохраняются
 
-При нажатии кнопки любого из объекта рекламы выбирается соответствующий объект рекламы.
+![image](https://github.com/user-attachments/assets/159568bc-acbc-4ef9-bdc8-b6d89ecbf04c)
 
-![image](https://github.com/user-attachments/assets/cb26d4b6-708c-4830-b73d-87473d6dd99a)
+* При нажатии на input "Даты проведения" открывается календарь для ввода дат
 
+![image](https://github.com/user-attachments/assets/6816f60f-13cb-4667-80f4-c969aefb18c1)
 
-* Во вкладке "Трансляции"
+* При нажатии на дату в календаре она автоматически заполняет input
 
-При нажатии на кнопки "Не транслируется" осуществляется соответствующая фильтрация
+![image](https://github.com/user-attachments/assets/efe952d7-ced4-4dc5-8622-c0a99195af57)
+![image](https://github.com/user-attachments/assets/a05c3c05-0c50-456f-8cd1-694b6d0f192f)
 
-При нажатии на кнопки "Транслируется" осуществляется соответствующая фильтрация
+* При вводе даты окончания кампании существует ограничение, максимально возможная дата окончания кампании 04.09.2037
 
-![image](https://github.com/user-attachments/assets/dbd43395-87e9-4a29-a047-a54e1ea5ca24)
+![image](https://github.com/user-attachments/assets/265507b7-95dc-4943-802f-39929bf100ad)
 
+* При нажатии на дропдаун "Целевое действие" отображаются кнопки "Подписка на сообщество", "Отправка сообщения", "Продвижения записи".
 
+![image](https://github.com/user-attachments/assets/ef03af25-84ac-4006-945d-0b1654f65223)
 
-* Во вкладке "Эффективность кампании"
+ * При нажатии на "Отправка сообщения" целевым действием выбирается именно отправка сообщения.
 
-При нажатии на кнопки "Эффективные" осуществляется соответствующая фильтрация
+![image](https://github.com/user-attachments/assets/2127593f-b49a-4674-ae50-a75cd9c80c37)
 
-При нажатии на кнопки "Можно улучшить" осуществляется соответствующая фильтрация
 
-![image](https://github.com/user-attachments/assets/f2e3ca2e-6883-4d5c-bf56-37f0913fd4ad)
+* При вывключении переключателя "Оптимизация бюджета кампании" подробный список настройки скрывается
 
+* При включении переключателя "Оптимизация бюджета кампании" отображается подробный список 
 
-* При нажатии кнопки "Отмена" фильтр сбрасывается
 
-* При нажатии кнопки "Применить" фильтр отображает данные по выбранным критериям
+![image](https://github.com/user-attachments/assets/a16a9df6-1f02-4b90-96f8-495b1c883700)
 
-![image](https://github.com/user-attachments/assets/b65e7e89-64cc-452f-80d4-e4ebb4c844c7)
+![image](https://github.com/user-attachments/assets/91462f7a-79dc-4a1b-bd3b-d19fac5a17ce)
 
+* При нажатии на дропдаун "Стратегия ставок" отображаются кнопки "Предельная цена", "Минимальная цена"
 
-* При нажатии "Сохранить" отображается окно, в котором требуется ввести название фильтра
+![image](https://github.com/user-attachments/assets/43a361cd-5479-48db-a681-db32c167e4ed)
 
-![image](https://github.com/user-attachments/assets/f2ceff8f-60ee-46bf-a798-8107798644b4)
+* При нажатии на "Минимальная цена" открывается редактирование кампании в соответствии с этой стратегией ставок
 
-* При нажатии "Отменить" сохранение отменяется
-* При нажатии "Сохранить" фильтр можно сохранить введя его название
+![image](https://github.com/user-attachments/assets/38a767a6-2dc1-41db-8b83-21e7766dcfac)
 
-![image](https://github.com/user-attachments/assets/fbd18485-1fbc-4208-890c-fad2b983ca00)
+* При вводе в input "Бюджет" более 9 999 999 999 999 срабатывает ограничение
 
+![image](https://github.com/user-attachments/assets/67702b26-05ba-4586-b5ee-2aad81f199a7)
 
-* При попытке повторного сохранения фильтра с тем же названием выводится ошибка (с другим именем нет ошибки)
+* При вводе в input "Бюджет" менее 100 срабатывает ограничение
 
-![image](https://github.com/user-attachments/assets/fae7be09-aad7-4dbe-a83a-eba4c81987b2)
+![image](https://github.com/user-attachments/assets/67702b26-05ba-4586-b5ee-2aad81f199a7)
 
-* При попытке ввести пустое название выводится ошибка
+* При нажатии на дропдаун отображаются кнопки "за день", "за все время"
 
-![image](https://github.com/user-attachments/assets/004e36f2-4910-469a-bd2b-116eff648292)
+![image](https://github.com/user-attachments/assets/bfd8a0ef-c712-4115-909d-ab5721289458)
 
-* При попытке ввести более 255 символов выводится ошибка
+* При нажатии кнопки "за все время" отображается соответсвтвующий выбор
 
-![image](https://github.com/user-attachments/assets/5de21f54-0d1d-47d1-a543-80a4306e8e91)
+ ![image](https://github.com/user-attachments/assets/eade6010-d51e-404f-91a0-bd48b73d8455)
 
+* При нажатии кнопки продолжить происходит редирект на создание группы объявлений
 
-* При нажатии на крестик фильтр сбрасывается
+![image](https://github.com/user-attachments/assets/a3808333-9903-456d-8841-679c8ab5d9a0)
 
-![image](https://github.com/user-attachments/assets/2b9c9b22-805f-4c0b-8418-eb02a1978680)
+* При нажатии на кнопку редактирования названия группы объявлений в открывшемся input вводится название новой группы объявлений
 
-* При нажатии на кнопку с датами высвечивается календарь, который позовляет фильтровать данные на основе времени
+![image](https://github.com/user-attachments/assets/a77deb49-6993-4ab0-aa31-834c1529c691)
 
-![image](https://github.com/user-attachments/assets/f1fc6ed1-56b3-42ea-8fdb-3e7468263421)
+* При нажатии на кнопку подтвержения нового названия происходит сохнанение записи
 
-![image](https://github.com/user-attachments/assets/13083aab-0e87-4cef-9cb6-a055fe5cd5d7)
+![image](https://github.com/user-attachments/assets/52b7bac1-c281-4cf7-84e4-149ec220b598)
 
-* Указать дату можно при нажатии на нее
-* Невозможно установить на позапрошлый год и ранее, так как выводится ошибка
-* Невозможно установить на год вперед, так как выводится ошибка
+* При нажатии на кнопку "Россия" в блоке "Регионы показа" происходит выбор региона
 
-![image](https://github.com/user-attachments/assets/1fd5c79f-2d62-4bd6-a7de-6ca66106cbf3)
+![image](https://github.com/user-attachments/assets/b48cae49-dc64-4db3-beff-8b26d608b3fd)
 
-![image](https://github.com/user-attachments/assets/e6bf13af-edf3-4ef6-b49c-464058840d6b)
+![image](https://github.com/user-attachments/assets/be27400a-5f1b-437c-9ee6-45d56ef56ae3)
 
-При нажатии на "Сегодня", "Вчера", "Эта неделя", "Прошлая неделя", "Этот месяц", "Прошлый месяц", "Этот квартал", "Прошлый квартал", "Этот год", "Прошлый год" происходит временная фильтрация.
+* При нажатии на переключатель "Расширение аудитории" аудитория расширяется
 
-* При нажатии кнопки "Отменить" вся фильтрация сбрасывается
-* При нажатии на кнопку "Применить" отобразятся данные за соответствующий временной промежуток
+![image](https://github.com/user-attachments/assets/f5305705-3be1-4ef9-92d2-f2490ab7dcfd)
 
-![image](https://github.com/user-attachments/assets/fbe8adc6-1b34-40dc-89b8-afc0f63816e2)
+![image](https://github.com/user-attachments/assets/09275d29-fffa-43a8-ad16-31f8571adca2)
 
-* При нажатии на кнопку "Объявления" отображается соответствующая вкладка
+* При нажатии на дропдаун "Возрастное ограничение" отображаюся кнопки ограничений: 0+, 6+, 12+, 16+, 18+
 
-![image](https://github.com/user-attachments/assets/8bcdb614-9e8a-465f-8b37-e901101ab40b)
+![image](https://github.com/user-attachments/assets/1f0e08db-0186-4f57-b073-748cc48f1c4c)
 
-* При нажатии на кнопку "Группы" отображается соответствующая вкладка 
+* При нажатии на 12+ происходит выбор возрастной маркировки 12+
 
-![image](https://github.com/user-attachments/assets/49ff845e-a5c0-4fef-8583-dd16ade5b8a5)
+![image](https://github.com/user-attachments/assets/04173eb4-010a-4c0a-bf4d-f5367dcef3e6)
 
-* При нажатии на кнопку "Кампании" отображается соответствующая вкладка 
+* При нажатии на "Интересы" в блоке "Интересы и поведение" открывается input
 
-![image](https://github.com/user-attachments/assets/6e0fe104-5f86-4a70-8ead-c9b469bc7a55)
+![image](https://github.com/user-attachments/assets/198ff379-5cf2-4454-8750-e25d41711562)
 
+* При вводе в input "Спорт интерес" отображается кнопка "Спорт интерес"
 
-* При нажатии кнопки обновить данные на вкладке обновляются
+![image](https://github.com/user-attachments/assets/509ae92f-7c07-4802-8219-c0f17e6622ac)
 
-![image](https://github.com/user-attachments/assets/606fe559-b8d2-471b-bd62-7113bef3dd2d)
+* При нажатии кнопки добавляется интерес "Спорт интерес"
 
-* При переводе ползунка можно либо возобновить кампанию, либо остановить ее
+![image](https://github.com/user-attachments/assets/81e41270-3390-4b61-97b9-34dbf4e5066d)
 
-![image](https://github.com/user-attachments/assets/38c279c8-12a5-4725-a135-fbfc0976090c)
+* При нажатии кнопки "Продолжить" происходит переход на создание объявления
 
-* При нажатии на кнопку "Статистика" выводится расширенная статистика кампании
+![image](https://github.com/user-attachments/assets/3cb4f02f-3cf5-4111-b7b8-5c7c87bbd722)
 
-![image](https://github.com/user-attachments/assets/c3f2d258-fca6-48e0-9803-9a19588106de)
+* При вводе в input описания оно сохраняется
 
-![image](https://github.com/user-attachments/assets/8795ab6a-5026-44d2-8c0b-0374810a20f8)
+![image](https://github.com/user-attachments/assets/90b9aa6c-b230-4d3a-b4a1-e7565fad48b7)
 
-* При просмотре расширенной статистики и нажатии кнопки "Редактировать" появляется окно редактирования кампании
+* При нажатии кнопки "Созданное нейросетью" открывается медиатека
 
-![image](https://github.com/user-attachments/assets/0bc78647-c9d0-4ac5-9d1e-da28be8ffea5)
+![image](https://github.com/user-attachments/assets/79f49eea-8433-4333-977b-113add203e06)
 
-* При нажатии на кнопку с датой высвечивается окно фильтрации времени данных, на основе которых подводится статистика
+* При нажатии на любую картинку появляется кнопка "Добавить"
 
-![image](https://github.com/user-attachments/assets/a7c2bfc8-cb74-47c9-bab4-0c9c318ea5bd)
+![image](https://github.com/user-attachments/assets/08fabc68-9aa3-4fde-b403-7059348ead3e)
 
-* При нажатии на кнопку "Отменить" фильтрация времени закрыватся
-* При нажатии на кнопку "Применить" фильтрация применяется
+* При нажатии кнопки "Добавить" изображение додавляется
 
-* При нажатии на кнопку "Обзор" открывается соответствующая вкладка
+![image](https://github.com/user-attachments/assets/677a5eb5-35a7-4ca2-964d-400a3de39fd5)
 
-![image](https://github.com/user-attachments/assets/ddd68634-0b68-4b81-9a6d-5425265e6efc)
+* При нажатии кнопки "Опубликовать" происходит редирект на страницу кампаний
 
-* При нажатии на кнопку "Демография" открывается соответствующая вкладка
+![image](https://github.com/user-attachments/assets/f1dae6dc-2143-4c93-9e3f-dcf32f7c3b38)
 
-![image](https://github.com/user-attachments/assets/9ec62da9-6f3b-4a87-a53a-8461346fc3ae)
+* При нажатии на checkbox кампании тест происходит ее выбор
 
-* При нажатии на кнопку "Георграфия" открывается соответствующая вкладка
+![image](https://github.com/user-attachments/assets/8d7143db-c96d-4c54-8b17-79dae5e1203f)
 
-![image](https://github.com/user-attachments/assets/3528ef8f-e1d8-4063-8bc0-86dec58f1e14)
+* При нажатии на дропдаун "Действия" отображаются кнопки "Остановить","Редактировать","Удалить"
 
-* При нажатии на кнопку "Ключевые фразы" открывается соответствующая вкладка
+![image](https://github.com/user-attachments/assets/57677c67-a2e9-4b71-8c96-95dbc3ce891d)
 
-![image](https://github.com/user-attachments/assets/57d9ca00-bb96-4c08-80c1-4eb851a74f5d)
+* При нажатии на кнопку удалить происходит удаления кампании
 
-* При нажатии кнопки "Объявление" открывается соответствующая вкладка
+![image](https://github.com/user-attachments/assets/f5c632b0-5916-4c7c-b071-0a9582fd7ed3)
 
-![image](https://github.com/user-attachments/assets/db5cc3bb-f57b-40c1-a92c-d85bb4f4870a)
-
-* При нажатии кнопки "Группа" открывается соответствующая вкладка
-
-![image](https://github.com/user-attachments/assets/a4abe55a-aa17-4ca9-8a7e-6bbc7f3054bc)
-
-* При нажатии кнопки "Кампания" открывается соответствующая вкладка
-
-![image](https://github.com/user-attachments/assets/d7351764-c374-450c-b61a-34e7f550b763)
-
-* При нажатии на кнопку "редактировать" отображается окно редактирования кампании
-
-![image](https://github.com/user-attachments/assets/4bb0ea1c-be8d-4968-92ba-2f575c27f924)
-
-
-* При нажатии на бюджет открывается окно редактирования бюджета
-
-![image](https://github.com/user-attachments/assets/06f1b03b-e77c-4ee8-8622-5fcf08557716)
-
-* При нажатии "Отмена" отменяется редактирование бюджета
-* При нажатии "Применить" бюджет меняется
-
-![image](https://github.com/user-attachments/assets/20cdcd2a-5466-4ad2-9865-3517f7cd2131)
-
-![image](https://github.com/user-attachments/assets/5cd1cfee-6d8e-4d26-8429-e2f63a2e6733)
-
-* При попытке ввода значения менее 100 выводится ошибка
-
-![image](https://github.com/user-attachments/assets/08942a68-d69a-472e-8f3d-b34f1f13f889)
-
-* При попытке ввода более 9999999999 выводится ошибка
-
-![image](https://github.com/user-attachments/assets/92bde933-ddc6-419e-8b0f-7a967e09799f)
-
-
-* При нажатии на значек скачивания на устройство устанавливается файл формата xlsx с отчетом
-
-![image](https://github.com/user-attachments/assets/6c542d74-150c-448c-b7ab-e6cc1e995d59)
 
 ## Аудитории https://ads.vk.com/hq/audience
 
