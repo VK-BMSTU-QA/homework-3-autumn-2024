@@ -292,61 +292,66 @@
 
 ![image](https://github.com/user-attachments/assets/91bbc8b2-4e29-4347-af25-22080b0ca82f)
 
+* При нажатии на название кампании открывается ее расширенная статистика
 
-* При нажатии на Полезные материалы открывается новая вкладка с информацией (например: https://ads.vk.com/news/sbor-auditorii-po-reklamnym-sobytiyam)
+![image](https://github.com/user-attachments/assets/6f3510cb-77ba-469c-976e-e669b7e871ff)
 
-![image](https://github.com/user-attachments/assets/1d7c5db8-4e6e-4f6e-9e4d-3a58a3dc6c36)
+* При нажатии на группу открывается расширенная статистика группы
+
+![image](https://github.com/user-attachments/assets/55284224-9258-4a2d-90e7-0b71b05e096e)
+
+* При нажатии на объявление открывается расширенная статистика объявления
+
+![image](https://github.com/user-attachments/assets/f7acfb94-04c5-40c1-aced-9e4082d67053)
+
+* При нажатии кнопки "скачать отчет" происходит скачивание отчета в формате xlsx
+
+![image](https://github.com/user-attachments/assets/c6749348-18d8-46a3-a16e-c373a5fe362c)
+
+* При нажатии кнопки "Пополнить" открывается модальное окно пополнения бюджета
+
+![image](https://github.com/user-attachments/assets/523de184-1f7e-4c85-9b2d-fbfaab84ff83)
+
+* При вводе суммы вне диапазона от 600 до 200 000 выводится ошибка
+
+![image](https://github.com/user-attachments/assets/aeb36261-36fb-412b-8a9a-d552b428528d)
+
+* При нажатии на кнопку "Пополнить счет" открывается модальное окно обработки платежа
+
+![image](https://github.com/user-attachments/assets/28131c65-ceda-4799-9bc2-492b44db3882)
+
+* При нажатии кнопки "Подробнее" происходит редирект на страницу лимита количества объявлений
+
+![image](https://github.com/user-attachments/assets/b49e2cb0-731b-452f-88d4-854e88006ca7)
+![image](https://github.com/user-attachments/assets/797bb2f8-5f32-44be-80b3-39f1f5c422e0)
+
+* При нажатии на календарь открывается окно выбора дат для вывода статистики
+
+![image](https://github.com/user-attachments/assets/9e5c56a1-68b7-46c8-8967-acdcefef5c40)
 
 
-* При нажатии на кнопку "Создать кампанию" открывается окно создания новой кампании
+* При нажатии на кнопку "Подписки" открывается модальное окно с выбором того, что будет отображено на графике статистики  
 
-![image](https://github.com/user-attachments/assets/ca95b2f1-038a-4810-bf14-3ad6f3625a17)
+![image](https://github.com/user-attachments/assets/a05d6b28-011a-4fd2-b6ad-21fc486be388)
 
-* При нажатии на кнопку "Транслируются" открывается окно кампаний с фильтрами
+![image](https://github.com/user-attachments/assets/fa72a3fd-6126-45d6-9d1c-2eef52e634b0)
 
-![image](https://github.com/user-attachments/assets/396a0bd8-0fb1-4025-9824-8a2bc1ba68b7)
-![image](https://github.com/user-attachments/assets/c284753f-016e-490c-883e-cbc093f0cdd9)
+* При нажатии кнопки "Продажи ВКонтакте" происходит выбор данных, отображаемых на графике
 
-* При нажатии на кнопку "Не ранслируются" открывается окно кампаний с фильтрами
+![image](https://github.com/user-attachments/assets/d05e20cb-0ea2-4a20-94e7-9b29cd459007)
 
-![image](https://github.com/user-attachments/assets/e23b0c2e-983e-4be7-90a3-525ab6686fc0)
+* При нажатии кнопки "Применить" модальное окно закрывается и происходит отображение выбранных данных
 
-* При нажатии на кнопку "На модерации" открывается окно кампаний с фильтрами
+![image](https://github.com/user-attachments/assets/4ab4140b-1462-421a-8621-e5c64ec09f92)
 
-![image](https://github.com/user-attachments/assets/8bbbda2e-fb2b-4ca7-a090-cecd6c9da031)
+* При переключении switch на "Кейсы" отображаются актуальные события
 
-* При нажатии на кнопку "Отклоненные" открывается окно кампаний с фильтрами
+![image](https://github.com/user-attachments/assets/10c6b1d7-0eb8-4064-a6bb-911bc68d0dea)
 
-![image](https://github.com/user-attachments/assets/d1ef1ac2-2b83-48f7-8e3d-8f3818243f47)
+* При переключении switch на "Новости" отображаются актуальные новостные сводки
 
-* При нажатии на кнопку пополнить открывается окно пополнения счета
+![image](https://github.com/user-attachments/assets/596654b3-3c35-443e-9f8e-d0b289ff2dd7)
 
-![image](https://github.com/user-attachments/assets/69bc1db9-188e-453b-84d5-44db26b50356)
+* При нажатии на любую новость или кейс происходит редирект на страницу этого полезного материала
 
-* При вводе менее 600 рублей выводится ошибка
-
-![image](https://github.com/user-attachments/assets/05c5f9c1-5f21-45ff-a2b1-4eb7850adc01)
-
-* При вводе более 200 000 выводится ошибка
-
-![image](https://github.com/user-attachments/assets/a64007d0-d728-4395-b5c2-5af263595460)
-
-* При нажатии на крестик окно пополнения закрывается
-
-![image](https://github.com/user-attachments/assets/5d830425-3923-4a3d-af1e-31e500d5aed9)
-
-* При нажатии кнопки пополнения открывается оплата
-
-![image](https://github.com/user-attachments/assets/d4eeb121-1b7e-4fef-bc49-5aa0a59f9d36)
-
-* При нажатии на дату открывается редактирование даты отображения данных
-
-![image](https://github.com/user-attachments/assets/59146d1b-618a-465b-a6f4-d2ffc3706c1c)
-
-* В полезных материалах при нажатии на кнопку "Кесы" отображаются соответсвующие данные
-
-![image](https://github.com/user-attachments/assets/8887d4cf-f67e-4610-8ea7-50b4051e7d31)
-
-* В полезных материалах при нажатии на кнопку "Новости" отображаются соответсвующие данные
-
-![image](https://github.com/user-attachments/assets/ce1504cc-bb33-4cbd-b59e-26768ab14449)
+![image](https://github.com/user-attachments/assets/12440d39-d24c-4878-9885-f291b14c9798)
