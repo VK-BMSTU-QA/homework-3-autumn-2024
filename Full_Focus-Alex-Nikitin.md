@@ -173,7 +173,7 @@
 
 ![image](https://github.com/user-attachments/assets/08fabc68-9aa3-4fde-b403-7059348ead3e)
 
-* При нажатии кнопки "Добавить" изображение додавляется
+* При нажатии кнопки "Добавить" изображение добавляется
 
 ![image](https://github.com/user-attachments/assets/677a5eb5-35a7-4ca2-964d-400a3de39fd5)
 
