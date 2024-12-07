@@ -67,10 +67,6 @@
 ![image](https://github.com/user-attachments/assets/efe952d7-ced4-4dc5-8622-c0a99195af57)
 ![image](https://github.com/user-attachments/assets/a05c3c05-0c50-456f-8cd1-694b6d0f192f)
 
-* При вводе даты окончания кампании существует ограничение, максимально возможная дата окончания кампании 04.09.2037
-
-![image](https://github.com/user-attachments/assets/265507b7-95dc-4943-802f-39929bf100ad)
-
 * При нажатии на дропдаун "Целевое действие" отображаются кнопки "Подписка на сообщество", "Отправка сообщения", "Продвижения записи".
 
 ![image](https://github.com/user-attachments/assets/ef03af25-84ac-4006-945d-0b1654f65223)
