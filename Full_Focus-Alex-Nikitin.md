@@ -2,6 +2,8 @@
 
 ## Кампании https://ads.vk.com/hq/dashboard
 
+### Проверка создания кампании
+
 * При переходе на вкладку отображается окно
 
 ![image](https://github.com/user-attachments/assets/fe58b558-ac55-4008-9cac-3fc4db1ba95d)
@@ -188,6 +190,8 @@
 
 ## Аудитории https://ads.vk.com/hq/audience
 
+### Проверка создания аудитории
+
 * При нажатии на вкладку Аудитории отображается страница аудиторий
 
 ![image](https://github.com/user-attachments/assets/ea99d8c4-ca04-4a9e-bd39-5df9f6c81c9d)
@@ -263,6 +267,8 @@
 
 ## Обзор https://ads.vk.com/hq/overview
 
+### Проверка избранного
+
 * При переходе на вкладку отображается окно 
 
 ![image](https://github.com/user-attachments/assets/8dd254c5-23f1-49bb-a166-21b9d6bdd2e2)
@@ -284,43 +290,15 @@
 
 ![image](https://github.com/user-attachments/assets/91bbc8b2-4e29-4347-af25-22080b0ca82f)
 
-* При нажатии на название кампании открывается ее расширенная статистика
+### Проверка настройки дат и формата статистики
 
-![image](https://github.com/user-attachments/assets/6f3510cb-77ba-469c-976e-e669b7e871ff)
+* При переходе на вкладку отображается окно 
 
-* При нажатии на группу открывается расширенная статистика группы
-
-![image](https://github.com/user-attachments/assets/55284224-9258-4a2d-90e7-0b71b05e096e)
-
-* При нажатии на объявление открывается расширенная статистика объявления
-
-![image](https://github.com/user-attachments/assets/f7acfb94-04c5-40c1-aced-9e4082d67053)
-
-* При нажатии кнопки "скачать отчет" происходит скачивание отчета в формате xlsx
-
-![image](https://github.com/user-attachments/assets/c6749348-18d8-46a3-a16e-c373a5fe362c)
-
-* При нажатии кнопки "Пополнить" открывается модальное окно пополнения бюджета
-
-![image](https://github.com/user-attachments/assets/523de184-1f7e-4c85-9b2d-fbfaab84ff83)
-
-* При вводе суммы вне диапазона от 600 до 200 000 выводится ошибка
-
-![image](https://github.com/user-attachments/assets/aeb36261-36fb-412b-8a9a-d552b428528d)
-
-* При нажатии на кнопку "Пополнить счет" открывается модальное окно обработки платежа
-
-![image](https://github.com/user-attachments/assets/28131c65-ceda-4799-9bc2-492b44db3882)
-
-* При нажатии кнопки "Подробнее" происходит редирект на страницу лимита количества объявлений
-
-![image](https://github.com/user-attachments/assets/b49e2cb0-731b-452f-88d4-854e88006ca7)
-![image](https://github.com/user-attachments/assets/797bb2f8-5f32-44be-80b3-39f1f5c422e0)
+![image](https://github.com/user-attachments/assets/8dd254c5-23f1-49bb-a166-21b9d6bdd2e2)
 
 * При нажатии на календарь открывается окно выбора дат для вывода статистики
 
 ![image](https://github.com/user-attachments/assets/9e5c56a1-68b7-46c8-8967-acdcefef5c40)
-
 
 * При нажатии на кнопку "Подписки" открывается модальное окно с выбором того, что будет отображено на графике статистики  
 
@@ -335,6 +313,50 @@
 * При нажатии кнопки "Применить" модальное окно закрывается и происходит отображение выбранных данных
 
 ![image](https://github.com/user-attachments/assets/4ab4140b-1462-421a-8621-e5c64ec09f92)
+
+### Проверка расширенной статистики
+
+* При переходе на вкладку отображается окно 
+
+![image](https://github.com/user-attachments/assets/8dd254c5-23f1-49bb-a166-21b9d6bdd2e2)
+
+* При нажатии на название кампании открывается ее расширенная статистика
+
+![image](https://github.com/user-attachments/assets/6f3510cb-77ba-469c-976e-e669b7e871ff)
+
+* При нажатии на группу открывается расширенная статистика группы
+
+![image](https://github.com/user-attachments/assets/55284224-9258-4a2d-90e7-0b71b05e096e)
+
+* При нажатии на объявление открывается расширенная статистика объявления
+
+![image](https://github.com/user-attachments/assets/f7acfb94-04c5-40c1-aced-9e4082d67053)
+
+* При нажатии кнопки "скачать отчет" происходит скачивание отчета в формате xlsx
+
+### Проверка пополнения бюджета
+
+* При переходе на вкладку отображается окно 
+
+![image](https://github.com/user-attachments/assets/8dd254c5-23f1-49bb-a166-21b9d6bdd2e2)
+
+* При нажатии кнопки "Пополнить" открывается модальное окно пополнения бюджета
+
+![image](https://github.com/user-attachments/assets/523de184-1f7e-4c85-9b2d-fbfaab84ff83)
+
+* При вводе суммы вне диапазона от 600 до 200 000 выводится ошибка
+
+![image](https://github.com/user-attachments/assets/aeb36261-36fb-412b-8a9a-d552b428528d)
+
+* При нажатии на кнопку "Пополнить счет" открывается модальное окно обработки платежа
+
+![image](https://github.com/user-attachments/assets/28131c65-ceda-4799-9bc2-492b44db3882)
+
+### Проверка полезных материалов
+
+* При переходе на вкладку отображается окно 
+
+![image](https://github.com/user-attachments/assets/8dd254c5-23f1-49bb-a166-21b9d6bdd2e2)
 
 * При переключении switch на "Кейсы" отображаются актуальные события
 
