@@ -149,11 +149,7 @@
 
 ![image](https://github.com/user-attachments/assets/198ff379-5cf2-4454-8750-e25d41711562)
 
-* При вводе в input "Спорт интерес" отображается кнопка "Спорт интерес"
-
-![image](https://github.com/user-attachments/assets/509ae92f-7c07-4802-8219-c0f17e6622ac)
-
-* При нажатии кнопки добавляется интерес "Спорт интерес"
+* При нажатии кнопки добавляется интерес "Авто внедорожники"
 
 ![image](https://github.com/user-attachments/assets/81e41270-3390-4b61-97b9-34dbf4e5066d)
 
