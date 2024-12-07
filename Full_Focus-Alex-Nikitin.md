@@ -294,7 +294,7 @@
 
 * При переходе на вкладку отображается окно 
 
-![image](https://github.com/user-attachments/assets/8dd254c5-23f1-49bb-a166-21b9d6bdd2e2)
+![image](https://github.com/user-attachments/assets/91bbc8b2-4e29-4347-af25-22080b0ca82f)
 
 * При нажатии на календарь открывается окно выбора дат для вывода статистики
 
@@ -318,7 +318,7 @@
 
 * При переходе на вкладку отображается окно 
 
-![image](https://github.com/user-attachments/assets/8dd254c5-23f1-49bb-a166-21b9d6bdd2e2)
+![image](https://github.com/user-attachments/assets/91bbc8b2-4e29-4347-af25-22080b0ca82f)
 
 * При нажатии на название кампании открывается ее расширенная статистика
 
