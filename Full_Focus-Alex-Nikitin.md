@@ -147,7 +147,7 @@
 
 * При нажатии кнопки добавляется интерес "Авто внедорожники"
 
-![image](https://github.com/user-attachments/assets/81e41270-3390-4b61-97b9-34dbf4e5066d)
+![image](https://github.com/user-attachments/assets/e5862af6-98cb-43e8-b851-6faa395782a7)
 
 * При нажатии кнопки "Продолжить" происходит переход на создание объявления
 
