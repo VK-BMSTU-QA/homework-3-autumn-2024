@@ -199,25 +199,13 @@
 
 ![image](https://github.com/user-attachments/assets/bd284357-e8ca-4737-8b61-a4a2f493dfac)
 
-* При нахождении во вкладке редактировия группы и нажатии на кнопку "Музыканты" открывается input для заполнения музыканта
-
-![image](https://github.com/user-attachments/assets/206b5548-78a8-456d-b54f-5025a3268d11)
-
-* При нахождении во вкладке редактировия группы и вводе "Murcul" в "Музыканты" отображается кнопка музыканта
-
-![image](https://github.com/user-attachments/assets/01c7d1bf-ff59-418b-93cc-da7e67ff82e9)
-
-* При нахождении во вкладке редактировия группы и нажатии на кнопку "Murcul" в "Музыканты" происходит добавление музыканта в список
-
-![image](https://github.com/user-attachments/assets/b0eff256-336c-4f55-95be-2038cdd28047)
-
 * При нахождении во вкладке редактировия объявления и ввода в input "Описания" нового описания оно сохраняется
 
 ![image](https://github.com/user-attachments/assets/21ffc1af-4255-4ca9-b719-09b396eeb8b3)
 
 ![image](https://github.com/user-attachments/assets/d2daf4b2-c044-4aa6-af54-a5bb128a7525)
 
-* При нажатии на кнопку "Сохранить" происходит сохранение редактирование кампании (требуется проверить новое название, бюджет и даты проведения)
+* При нажатии на кнопку "Сохранить" происходит сохранение редактирование кампании (после требуется проверить новое название, бюджет и даты проведения, а также наличие Спб в регионах показа в редактировании и нового описания)
 
 ![image](https://github.com/user-attachments/assets/6ee7596c-b544-4593-843a-125a868eef84)
 
@@ -300,6 +288,41 @@
 
 ### Проверка редактирования аудитории
 
+* При нажатии на вкладку Аудитории отображается страница аудиторий
+
+![image](https://github.com/user-attachments/assets/ea99d8c4-ca04-4a9e-bd39-5df9f6c81c9d)
+
+* При нажатии на троеточие отображается кнопка редактирования аудитории
+
+![image](https://github.com/user-attachments/assets/ceb918ca-f4e1-4801-bc27-e1f8f973ae70)
+
+* При нажатии на кнопку редактирования аудитории открывается модальное окно редактирования
+
+![image](https://github.com/user-attachments/assets/bd913d58-b9eb-4656-a035-5522e209e98a)
+
+* При вводе в input "Название" сохраняется и отображается новое название аудитории
+
+![image](https://github.com/user-attachments/assets/aa202bbc-2c4c-4432-839c-fad82005b56d)
+
+* При нажатии на кнопку редактирования ключевых фраз открывается модальное окно редактирования
+
+![image](https://github.com/user-attachments/assets/d169e916-28b9-42a1-87d5-2757624d2314)
+
+* При вводе в input отображаются измененные ключевые фразы
+
+![image](https://github.com/user-attachments/assets/c0117660-f836-41fa-9c0e-aea68938a903)
+
+* При нажатии сохранить измененные ключевые фразы сохраняются
+
+![image](https://github.com/user-attachments/assets/d8fa32d4-d7ac-46d9-8a2f-3a31efbf8421)
+
+* При нажати сохранить измененная аудитория сохраняется
+
+![image](https://github.com/user-attachments/assets/c4524c80-152a-475b-8d18-670382f50805)
+
+* Поверить новое название и новые ключевые фразы
+
+![image](https://github.com/user-attachments/assets/1e33c3ee-c819-4474-9955-c242840031fe)
 
 
 ## Обзор https://ads.vk.com/hq/overview
