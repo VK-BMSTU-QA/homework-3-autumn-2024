@@ -69,7 +69,7 @@
   - [История загрузок](#история-загрузок)
  
 ### Товары
-![image](https://github.com/user-attachments/assets/6d08dfa0-79a1-4f51-a52e-c363a5d85390)]
+![image](https://github.com/user-attachments/assets/6d08dfa0-79a1-4f51-a52e-c363a5d85390)
 ### Добавить товар
 - При нажатии на кнопку добавить товар появляется модальное окно с окном для загрузки файла
   - ![image](https://github.com/user-attachments/assets/364ef073-e834-454a-84c7-078118f482bb)
